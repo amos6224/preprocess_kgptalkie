@@ -8,8 +8,8 @@ setuptools.setup(
 	name = 'preprocess_kgptalkie', #this should be unique
 	include_package_data=True,
 	version = '0.1.3',
-	author = 'Laxmi Kant',
-	author_email = 'udemy@kgptalkie.com',
+	author = 'Jeff Destine',
+	author_email = 'jeff.destine@omnipush.com',
 	description = 'This is preprocessing package',
 	long_description = long_description,
 	long_description_content_type = 'text/markdown',
